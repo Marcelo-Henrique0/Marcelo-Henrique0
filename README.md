@@ -24,4 +24,4 @@ Aqui estão algumas das minhas estatísticas no GitHub, que são atualizadas aut
 </div>
 
 ---
-<div class="tenor-gif-embed" data-postid="4408838" data-share-method="host" data-aspect-ratio="0.7125" data-width="100%"><a href="https://tenor.com/view/animals-aww-cute-gif-4408838">Pawin&#39; At Your Phone Screen GIF</a>from <a href="https://tenor.com/search/animals-gifs">Animals GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![animals-aww](https://github.com/user-attachments/assets/2c1656f2-4d1a-4260-968d-172968a21ce9)
