@@ -8,7 +8,7 @@
 Tenho 20 anos, estudo engenharia de software na uniceplac, 
 
 ---
-### 📚 Linguagens de programção que estou estudando atualmente
+### 📚 Linguagens de programação que estou estudando atualmente
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -20,10 +20,7 @@ Tenho 20 anos, estudo engenharia de software na uniceplac,
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-Aqui estão algumas das minhas estatísticas no GitHub, que são atualizadas automaticamente:
-
+### 📊 Estatísticas no GitHub
 <div>
 <a href="https://github.com/Marcelo-Henrique0">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Henrique0&layout=compact&langs_count=7&theme=dracula"/>
