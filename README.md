@@ -24,3 +24,5 @@ Aqui estão algumas das minhas estatísticas no GitHub, que são atualizadas aut
 </div>
 
 ---
+
+<img loganding="lazy" height="180cm" src="https://tenor.com/sE6s.gif"/>
