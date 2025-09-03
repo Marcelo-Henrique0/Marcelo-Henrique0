@@ -1,4 +1,4 @@
-<h1 align="center"> Marcelo Henrique </h1>
+# Seja bem-vindo ao perfil do Marcelo Henrique no Github
 <p>
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=APRENDENDO&color=GREEN&style=for-the-badge"/>
 </p>
@@ -17,9 +17,10 @@
 
 Aqui estão algumas das minhas estatísticas no GitHub, que são atualizadas automaticamente:
 
-<p style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Henrique0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Henrique0&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<div>
+<a href="https://github.com/Marcelo-Henrique0">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-Henrique0&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Henrique0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
