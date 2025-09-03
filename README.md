@@ -3,12 +3,19 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=APRENDENDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-### 📊 Linguaguens de programção que estou estudando atualmente
+### Sobre mim
+
+Tenho 20 anos, estudo engenharia de software na uniceplac, 
+
+---
+### 📚 Linguaguens de programção que estou estudando atualmente
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Html" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Css" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
 
 ---
@@ -24,4 +31,9 @@ Aqui estão algumas das minhas estatísticas no GitHub, que são atualizadas aut
 </div>
 
 ---
-![animals-aww](https://github.com/user-attachments/assets/2c1656f2-4d1a-4260-968d-172968a21ce9)
+
+### 📫 Contatos
+<div>
+<a href = "marcelohenriqueduraesalmeida@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcelo-henrique-dur%C3%A3es-almeida-808623312/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
